@@ -1,0 +1,11 @@
+{
+	"plugins": [
+		"addcssjs"
+	],
+	"pluginsConfig": {
+		"addcssjs": {
+			"js": ["lib/brix.js"],
+			"css": ["lib/brix.css"]
+		}
+	}
+}
