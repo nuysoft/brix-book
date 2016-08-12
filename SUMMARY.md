@@ -6,7 +6,6 @@
 * [Brix Base](brix-base/README.md)
 * [Brix Event](brix-event/README.md)
 * [Brix Components](brix-components/README.md)
-    * [Example](brix-components/src/dropdown/README.md)
     * [Base](brix-components/base/README.md)
     * [ColorPicker](brix-components/colorpicker/README.md)
     * [DatePicker](brix-components/datepicker/README.md)

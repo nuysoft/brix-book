@@ -1,6 +1,10 @@
 # Tree
 
-树组件。{ .lead }
+树组件。
+
+```html
+<div bx-name="components/tree" class="tree-wrapper">
+```
 
 ### 示例 <small>Examples</small>
 
