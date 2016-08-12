@@ -12,6 +12,8 @@ require(["gitbook", "jquery"], function(gitbook, $) {
 		.bind('finish', function() {})
 		.bind('page', function() {})
 		.bind('page.change', function() {
+			return
+
 			$('iframe').each(function(index, item) {
 				$(item).on('load', function() {
 					setInterval(function() {
@@ -20,8 +22,8 @@ require(["gitbook", "jquery"], function(gitbook, $) {
 						)
 					}, 1000)
 				})
-				debugger
 			})
+
 			var base = 'http://g-assets.daily.taobao.net/thx/brix-release/1.0.0-alpha.2/'
 			load(base + 'requirejs/require.js', function() {
 				require = requirejs
@@ -32,17 +34,6 @@ require(["gitbook", "jquery"], function(gitbook, $) {
 					})
 				})
 			})
+
 		})
-	$(function() {
-		// load('http://mo.local:4242/bower_components/requirejs/require.js', function() {
-		// 	require = requirejs
-		// 	load('http://mo.local:4242/config.js', function() {
-		// 		load('http://mo.local:4242/css.js', function() {
-		// 			require(['brix/loader'], function(Loader) {
-		// 				Loader.boot()
-		// 			})
-		// 		})
-		// 	})
-		// })
-	})
 })

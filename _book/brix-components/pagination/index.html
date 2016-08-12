@@ -583,33 +583,7 @@ Loader.query(<span class="hljs-string">&apos;components/pagination&apos;</span>)
     <span class="hljs-string">&quot;last&quot;</span>:     <span class="hljs-number">3</span>,       <span class="hljs-comment">// &#x6700;&#x540E;&#x4E00;&#x9875;</span>
     <span class="hljs-string">&quot;focus&quot;</span>:    <span class="hljs-number">40</span>       <span class="hljs-comment">// &#x5F53;&#x524D;&#x9875;&#x7684;&#x5F53;&#x524D;&#x7126;&#x70B9;&#x4E0B;&#x6807;</span>
 }</code></pre>
-<script type="text/javascript">
-    require(['brix/loader'], function(Loader){
-        Loader.boot(function(){
-            Loader.query('components/pagination')
-                .on('change.pagination', function(event, state) {
-                    console.log(event, state)
-                })
-        })
-    })
-</script>
-
-
-
-<h2 id="&#x793A;&#x4F8B;">&#x793A;&#x4F8B;</h2><div class="bs-example">
-    <div class="content">
-        <div bx-name="components/pagination" data-total="100" data-cursor="1" data-limit="9"></div>
-        <div bx-name="components/pagination" data-total="100" data-cursor="2" data-limit="10"></div>
-        <div bx-name="components/pagination" data-total="100" data-cursor="3" data-limit="11"></div>
-        <div bx-name="components/pagination" data-total="100" data-cursor="4" data-limit="12" data-limits="[9, 10, 8, 7, 40, 30, 20]"></div>
-        <div bx-name="components/pagination" data-total="100" data-cursor="5" data-limit="13" data-limits="[40, 30, 20]"></div>
-        <div bx-name="components/pagination" data-total="100" data-cursor="6" data-limit="14" data-limits="[40, 30, 20]" data-simplify="true"></div>
-    </div>
-</div>
-
-
-
-<h3 id="&#x81EA;&#x5B9A;&#x4E49;&#x6587;&#x6848;">&#x81EA;&#x5B9A;&#x4E49;&#x6587;&#x6848;</h3><pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">style</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;text/css&quot;</span>&gt;</span><span class="css">
+<h2 id="&#x81EA;&#x5B9A;&#x4E49;&#x7FFB;&#x9875;&#x6309;&#x94AE;&#x6587;&#x6848;">&#x81EA;&#x5B9A;&#x4E49;&#x7FFB;&#x9875;&#x6309;&#x94AE;&#x6587;&#x6848;</h2><pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">style</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;text/css&quot;</span>&gt;</span><span class="css">
     <span class="hljs-selector-tag">ul</span><span class="hljs-selector-class">.pagination</span> &gt; <span class="hljs-selector-tag">li</span><span class="hljs-selector-pseudo">:first-child</span> &gt; <span class="hljs-selector-tag">a</span> &gt; <span class="hljs-selector-tag">span</span><span class="hljs-selector-class">.brixfont</span>,
     <span class="hljs-selector-tag">ul</span><span class="hljs-selector-class">.pagination</span> &gt; <span class="hljs-selector-tag">li</span><span class="hljs-selector-pseudo">:last-child</span> &gt; <span class="hljs-selector-tag">a</span> &gt; <span class="hljs-selector-tag">span</span><span class="hljs-selector-class">.brixfont</span> {
         <span class="hljs-attribute">display</span>: none;
@@ -664,7 +638,7 @@ Loader.query(<span class="hljs-string">&apos;components/pagination&apos;</span>)
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Pagination","level":"1.6.12","depth":2,"next":{"title":"Popover","level":"1.6.13","depth":2,"path":"brix-components/popover/README.md","ref":"brix-components/popover/README.md","articles":[]},"previous":{"title":"HourPicker","level":"1.6.11","depth":2,"path":"brix-components/hourpicker/README.md","ref":"brix-components/hourpicker/README.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["addcssjs","livereload"],"pluginsConfig":{"addcssjs":{"css":["lib/brix.css"],"js":["lib/brix.js"]},"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"brix-components/pagination/README.md","mtime":"2016-08-12T03:12:34.000Z","type":"markdown"},"gitbook":{"version":"3.2.0","time":"2016-08-12T03:12:29.611Z"},"basePath":"../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Pagination","level":"1.6.12","depth":2,"next":{"title":"Popover","level":"1.6.13","depth":2,"path":"brix-components/popover/README.md","ref":"brix-components/popover/README.md","articles":[]},"previous":{"title":"HourPicker","level":"1.6.11","depth":2,"path":"brix-components/hourpicker/README.md","ref":"brix-components/hourpicker/README.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["addcssjs","livereload"],"pluginsConfig":{"addcssjs":{"css":["lib/brix.css"],"js":["lib/brix.js"]},"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"brix-components/pagination/README.md","mtime":"2016-08-12T09:11:29.000Z","type":"markdown"},"gitbook":{"version":"3.2.0","time":"2016-08-12T08:34:57.545Z"},"basePath":"../..","book":{"language":""}});
         });
     </script>
 </div>

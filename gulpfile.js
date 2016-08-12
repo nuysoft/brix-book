@@ -40,7 +40,7 @@ gulp.task('doc:event', function() {
 })
 
 gulp.task('doc:components', function() {
-    var globs = ['../brix-components/src/**/README.md','../brix-components/src/**/demo.html']
+    var globs = ['../brix-components/src/**/README.md','../brix-components/src/**/examples.md']
     gulp.watch(globs, function(event) {
         onFileChange(event)
         gulp.src(globs).pipe(cache('doc:components')).pipe(debug('doc:components'))
