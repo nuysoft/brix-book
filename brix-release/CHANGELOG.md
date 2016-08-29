@@ -1,19 +1,31 @@
 # CHANGELOG
 
 ```
-//g-assets.daily.taobao.net/thx/brix-release/1.0.0-alpha.2/require-config-css-debug.js
+//g-assets.daily.taobao.net/thx/brix-release/1.0.0-alpha.3/require-config-css-debug.js
 ```
 
 ```
-//g.alicdn.com/thx/brix-release/1.0.0-alpha.2/require-config-css-debug.js
-//g.alicdn.com/thx/brix-release/1.0.0-alpha.2/require-config-css.js
+//g.alicdn.com/thx/brix-release/1.0.0-alpha.3/require-config-css-debug.js
+//g.alicdn.com/thx/brix-release/1.0.0-alpha.3/require-config-css.js
 ```
+
+## 2016.08.16, Version 1.0.0-alpha.3
+
+### thx/brix-components
+1. **增加** [#17 Parsley 支持任意容器元素](https://github.com/thx/brix-components/issues/17)
+
 
 ## 2016.08.10, Version 1.0.0-alpha.2
 
 ### thx/brix-components
 1. **增加** [#75 ColorPicker](https://github.com/thx/brix-components/issues/75)
 2. **移除** [#76 AreaPicker](https://github.com/thx/brix-components/issues/76)
+3. **重构** DatePickerWrapper
+	1. [#27 支持范围选择](https://github.com/thx/brix-components/issues/27)
+	2. [#29 支持多个日历面板](https://github.com/thx/brix-components/issues/29)
+	3. [#40 可选日期范围支持表达式 +=、-=](https://github.com/thx/brix-components/issues/40)
+	4. [#73 data-range 对年月面板不生效](https://github.com/thx/brix-components/issues/73)
+	5. [#79 浮层定位异常](https://github.com/thx/brix-components/issues/79)
 
 
 ## 2016.08.01, Version 1.0.0-alpha.1

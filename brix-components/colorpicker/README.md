@@ -4,6 +4,7 @@
 
 ```html
 <div bx-name="components/colorpicker" class="btn btn-default">ColorPicker</div>
+<input bx-name="components/colorpicker" placeholder="ColorPicker">
 ```
 
 ## 配置
