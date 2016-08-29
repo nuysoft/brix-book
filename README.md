@@ -7,11 +7,29 @@
 
 1. 引入 Brix
 
-<script src=""></script>
+    ```html
+    <script src="//g.alicdn.com/thx/brix-release/1.0.0-alpha.2/require-config-css.js"></script>`
+    ```
+
 
 2. 配置 `bx-name`
 
+    ```html
+    <select bx-name="components/dropdown">
+        <option>foo</option>
+        <option>bar</option>
+        <option>faz</option>
+    </select>
+    ```
+
+
 3. 执行 `Loader.boot()`
+
+    ```js
+    var Loader = require('brix/loader')
+    Loader.boot()
+    ```
+
 
 **运行结果：**
 

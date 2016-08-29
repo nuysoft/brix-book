@@ -19,7 +19,7 @@
     * [HourPicker](brix-components/hourpicker/README.md)
     * [Pagination](brix-components/pagination/README.md)
     * [Popover](brix-components/popover/README.md)
-    * [SideNav](brix-components/sidenav/README.md)
+    * [SiteNav](brix-components/sitenav/README.md)
     * [Spin](brix-components/spin/README.md)
     * [Suggest](brix-components/suggest/README.md)
     * [Switch](brix-components/switch/README.md)
@@ -28,3 +28,4 @@
     * [Tree](brix-components/tree/README.md)
     * [Uploader](brix-components/uploader/README.md)
     * [Validation](brix-components/validation/README.md)
+
