@@ -1,13 +1,23 @@
 # CHANGELOG
 
 ```
-//g-assets.daily.taobao.net/thx/brix-release/1.0.0-alpha.3/require-config-css-debug.js
+//g-assets.daily.taobao.net/thx/brix-release/1.0.0-alpha.4/require-config-css-debug.js
 ```
 
 ```
-//g.alicdn.com/thx/brix-release/1.0.0-alpha.3/require-config-css-debug.js
-//g.alicdn.com/thx/brix-release/1.0.0-alpha.3/require-config-css.js
+//g.alicdn.com/thx/brix-release/1.0.0-alpha.4/require-config-css-debug.js
+//g.alicdn.com/thx/brix-release/1.0.0-alpha.4/require-config-css.js
 ```
+
+## 2016.08.31, Version 1.0.0-alpha.4
+
+### thx/brix-loader
+1. **优化** [#20 Loader Queue 队列相关代码扁平化](https://github.com/thx/brix-loader/issues/20)
+2. **优化** [#21 支持快速找到组件关联的 $relatedElement](https://github.com/thx/brix-loader/issues/21)
+
+### thx/brix-components
+1. **优化** [#77 文档内容和地址同步至 JS 头部的注释](https://github.com/thx/brix-components/issues/77)
+
 
 ## 2016.08.16, Version 1.0.0-alpha.3
 
@@ -146,7 +156,6 @@
 
 
 ## 2016.04.11, Version 0.1.6
-
 
 ### thx/brix-release
 1. **升级** jQuery `v1.12.0` ＝> `v1.12.2`
