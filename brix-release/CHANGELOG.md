@@ -12,9 +12,10 @@
 ## 2016.09.13, Version 1.0.0-alpha.6
 
 ### thx/brix-components
-1. [#85 DatePickerWrapper：样式 datepickerwrapper-open 不生效](https://github.com/thx/brix-components/issues/85)
-2. [#86 DatePickerWrapper：自定义快捷日期 shortcuts 没有完全覆盖默认值，而是在默认值的基础上新增](https://github.com/thx/brix-components/issues/86)
-3. [#87 HourPicker：点击『快捷按钮』重复触发 change 事件，『周x』的鼠标应该是小手](https://github.com/thx/brix-components/issues/87)
+1. **修复** [#85 DatePickerWrapper：样式 datepickerwrapper-open 不生效](https://github.com/thx/brix-components/issues/85)
+2. **修复** [#86 DatePickerWrapper：自定义快捷日期 shortcuts 没有完全覆盖默认值，而是在默认值的基础上新增](https://github.com/thx/brix-components/issues/86)
+3. **修复** [#87 HourPicker：点击『快捷按钮』重复触发 change 事件，『周x』的鼠标应该是小手](https://github.com/thx/brix-components/issues/87)
+4. **修复** [#88 Tree：边框颜色不合规范，单行内容间距错位](https://github.com/thx/brix-components/issues/88)
 
 
 ## 2016.09.12, Version 1.0.0-alpha.5
