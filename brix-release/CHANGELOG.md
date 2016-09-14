@@ -1,13 +1,30 @@
 # CHANGELOG
 
 ```
-//g-assets.daily.taobao.net/thx/brix-release/1.0.0-alpha.4/require-config-css-debug.js
+//g-assets.daily.taobao.net/thx/brix-release/1.0.0-alpha.5/require-config-css-debug.js
 ```
 
 ```
-//g.alicdn.com/thx/brix-release/1.0.0-alpha.4/require-config-css-debug.js
-//g.alicdn.com/thx/brix-release/1.0.0-alpha.4/require-config-css.js
+//g.alicdn.com/thx/brix-release/1.0.0-alpha.5/require-config-css-debug.js
+//g.alicdn.com/thx/brix-release/1.0.0-alpha.5/require-config-css.js
 ```
+
+## 2016.09.13, Version 1.0.0-alpha.6
+
+### thx/brix-components
+1. [#85 DatePickerWrapper：样式 datepickerwrapper-open 不生效](https://github.com/thx/brix-components/issues/85)
+2. [#86 DatePickerWrapper：自定义快捷日期 shortcuts 没有完全覆盖默认值，而是在默认值的基础上新增](https://github.com/thx/brix-components/issues/86)
+3. [#87 HourPicker：点击『快捷按钮』重复触发 change 事件，『周x』的鼠标应该是小手](https://github.com/thx/brix-components/issues/87)
+
+
+## 2016.09.12, Version 1.0.0-alpha.5
+
+### thx/brix-components
+
+1. **增加** [#80 Dropdown 支持多选](https://github.com/thx/brix-components/issues/19)
+2. **修复** [#84 TagInput 在 Safari 中输入框错位](https://github.com/thx/brix-components/issues/84)
+3. **恢复** SideNav
+
 
 ## 2016.08.31, Version 1.0.0-alpha.4
 

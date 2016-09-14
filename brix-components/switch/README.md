@@ -6,8 +6,6 @@
 <input type="checkbox" bx-name="components/switch">
 ```
 
-<iframe width="100%" height="500" src="./demo.html" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
-
 ## 配置
 
 自动从组件节点 `<input>` 上解析，在组件中通过 `this.options` 访问。
@@ -125,4 +123,4 @@ instances.on('change.switch', function(event, extra) {
 
 ## 示例
 
-<iframe width="100%" height="500" src="./demo.html" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="500" src="./examples.html" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
