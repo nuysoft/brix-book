@@ -9,7 +9,7 @@
     * [Base](brix-components/base/README.md)
     * [ColorPicker](brix-components/colorpicker/README.md)
     * [DatePicker](brix-components/datepicker/README.md)
-    * [DatePicker(Ancient)](brix-components/datepicker/ancient/README.md)
+    * [DatePicker\(Ancient\)](brix-components/datepicker/ancient/README.md)
     * [DatePickerWrapper](brix-components/datepickerwrapper/README.md)
     * [Dialog](brix-components/dialog/README.md)
     * [DialogView](brix-components/dialogview/README.md)

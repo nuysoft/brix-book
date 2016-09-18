@@ -1,0 +1,28 @@
+{
+  "name": "brix-book",
+  "version": "1.0.0",
+  "description": "像使用原生元素一样使用组件。 <!-- Introduction -->",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gitbook-plugin-addcssjs": "^1.0.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cached": "^1.1.0",
+    "gulp-debug": "^2.1.2",
+    "gulp-util": "^3.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thx/brix-book.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thx/brix-book/issues"
+  },
+  "homepage": "https://github.com/thx/brix-book"
+}
