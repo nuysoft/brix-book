@@ -37,6 +37,8 @@
 
 **运行结果：**
 
+[JSFiddle](https//jsfiddle.net/nuysoft/tu86eozp/2/embedded/)
+
 <iframe width="100%" height="300" src="//jsfiddle.net/nuysoft/tu86eozp/2/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 ## 模块化的 Brix
