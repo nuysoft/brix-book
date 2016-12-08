@@ -1,13 +1,24 @@
 # CHANGELOG
 
 ```
-//g-assets.daily.taobao.net/thx/brix-release/1.0.0-alpha.6/require-config-css-debug.js
+//g-assets.daily.taobao.net/thx/brix-release/1.0.0-alpha.7/require-config-css-debug.js
 ```
 
 ```
-//g.alicdn.com/thx/brix-release/1.0.0-alpha.6/require-config-css-debug.js
-//g.alicdn.com/thx/brix-release/1.0.0-alpha.6/require-config-css.js
+//g.alicdn.com/thx/brix-release/1.0.0-alpha.7/require-config-css-debug.js
+//g.alicdn.com/thx/brix-release/1.0.0-alpha.7/require-config-css.js
 ```
+
+## 2016.12.08, Version 1.0.0-alpha.7
+
+### thx/brix-base
+1. [#1 #2 #3 重构](https://github.com/thx/brix-base/issues/3)
+
+### thx/brix-components
+1. [#74 重构目录，重构配置](https://github.com/thx/brix-components/issues/74)
+2. [#77 重构文档](https://github.com/thx/brix-components/issues/77)
+3. [#89 组件的按钮会提交所在的表单](https://github.com/thx/brix-components/issues/89)
+
 
 ## 2016.09.13, Version 1.0.0-alpha.6
 
