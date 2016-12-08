@@ -1,4 +1,6 @@
 {
+	"title": "Brix4 Book",
+	"description": "Brix4 API Documentation with GitBook.",
 	"plugins": [
 		"addcssjs"
 	],
