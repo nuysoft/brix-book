@@ -1,13 +1,19 @@
 # CHANGELOG
 
 ```
-//g-assets.daily.taobao.net/thx/brix-release/1.0.0-alpha.7/require-config-css-debug.js
+//g-assets.daily.taobao.net/thx/brix-release/1.0.0-alpha.8/require-config-css-debug.js
 ```
 
 ```
-//g.alicdn.com/thx/brix-release/1.0.0-alpha.7/require-config-css-debug.js
-//g.alicdn.com/thx/brix-release/1.0.0-alpha.7/require-config-css.js
+//g.alicdn.com/thx/brix-release/1.0.0-alpha.8/require-config-css-debug.js
+//g.alicdn.com/thx/brix-release/1.0.0-alpha.8/require-config-css.js
 ```
+
+## 2016.12.12, Version 1.0.0-alpha.8
+
+### thx/brix-components
+1. [#94 Dropdown：支持修改值时不触发 change 事件，避免与 Vue 整合时重复触发](https://github.com/thx/brix-components/issues/94)
+
 
 ## 2016.12.08, Version 1.0.0-alpha.7
 
