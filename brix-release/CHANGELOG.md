@@ -1,13 +1,21 @@
 # CHANGELOG
 
 ```
-//g-assets.daily.taobao.net/thx/brix-release/1.0.0-alpha.8/require-config-css-debug.js
+//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.1/require-config-css-debug.js
 ```
 
 ```
-//g.alicdn.com/thx/brix-release/1.0.0-alpha.8/require-config-css-debug.js
-//g.alicdn.com/thx/brix-release/1.0.0-alpha.8/require-config-css.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.1/require-config-css-debug.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.1/require-config-css.js
 ```
+
+
+## 2016.12.14, Version 1.0.0-beta.1
+
+### thx/brix-components
+1. [#94 Dropdown：修复 .data() 渲染时参数不完整](https://github.com/thx/brix-components/issues/94)
+2. [#96 Validation：完善自定义命名空间](https://github.com/thx/brix-components/issues/96)
+
 
 ## 2016.12.12, Version 1.0.0-alpha.8
 
