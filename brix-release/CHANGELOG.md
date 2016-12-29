@@ -1,13 +1,18 @@
 # CHANGELOG
 
 ```
-//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.1/require-config-css-debug.js
+//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.2/require-config-css-debug.js
 ```
 
 ```
-//g.alicdn.com/thx/brix-release/1.0.0-beta.1/require-config-css-debug.js
-//g.alicdn.com/thx/brix-release/1.0.0-beta.1/require-config-css.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.2/require-config-css-debug.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.2/require-config-css.js
 ```
+
+## 2016.12.19, Version 1.0.0-beta.2
+
+### thx/brix-components
+1. [#80 Dropdown：支持过滤默认项](https://github.com/thx/brix-components/issues/80)
 
 
 ## 2016.12.14, Version 1.0.0-beta.1
