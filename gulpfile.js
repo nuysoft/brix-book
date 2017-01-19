@@ -103,11 +103,13 @@ gulp.task('doc:release', function() {
 
 let cmds = [
     'gitbook build',
+    'git status',
     'git add .',
     'git commit -m "update"',
     'git push origin master; git push gitlab master; git push nuysoft master;',
     'git checkout gh-pages',
     'cp -fr _book/* ./',
+    'git status',
     'git add .',
     'git commit -m "update"',
     'git push origin gh-pages; git push gitlab gh-pages; git push nuysoft gh-pages;',
