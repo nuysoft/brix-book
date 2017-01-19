@@ -1,13 +1,18 @@
 # CHANGELOG
 
 ```
-//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.2/require-config-css-debug.js
+//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.3/require-config-css-debug.js
 ```
 
 ```
-//g.alicdn.com/thx/brix-release/1.0.0-beta.2/require-config-css-debug.js
-//g.alicdn.com/thx/brix-release/1.0.0-beta.2/require-config-css.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.3/require-config-css-debug.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.3/require-config-css.js
 ```
+
+## 2016.01.19, Version 1.0.0-beta.3
+
+### thx/brix-components
+1. [#103 ColorPicker：不随组件元素滚动](https://github.com/thx/brix-components/issues/103)
 
 ## 2016.12.19, Version 1.0.0-beta.2
 
