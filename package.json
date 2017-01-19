@@ -10,6 +10,7 @@
     "gulp": "^3.9.1",
     "gulp-cached": "^1.1.0",
     "gulp-debug": "^2.1.2",
+    "gulp-shell": "^0.5.2",
     "gulp-util": "^3.0.7"
   },
   "scripts": {
