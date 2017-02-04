@@ -1,13 +1,25 @@
 # CHANGELOG
 
 ```
-//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.5/require-config-css-debug.js
+//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.6/require-config-css-debug.js
 ```
 
 ```
-//g.alicdn.com/thx/brix-release/1.0.0-beta.5/require-config-css-debug.js
-//g.alicdn.com/thx/brix-release/1.0.0-beta.5/require-config-css.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.6/require-config-css-debug.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.6/require-config-css.js
 ```
+
+
+## 2016.02.04, Version 1.0.0-beta.6
+
+### thx/brix-components
+1. [#101 Uploader：暴露发送器 XHR 或 iFrame](https://github.com/thx/brix-components/issues/101)
+2. [#104 暴露内部工具类](https://github.com/thx/brix-components/issues/104)
+	* components/table/linkage
+	* components/table/sticky
+	* components/dialog/position
+	* components/pagination/state
+
 
 ## 2016.01.22, Version 1.0.0-beta.5
 
