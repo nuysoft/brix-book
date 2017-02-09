@@ -1,13 +1,18 @@
 # CHANGELOG
 
 ```
-//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.6/require-config-css-debug.js
+//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.7/require-config-css-debug.js
 ```
 
 ```
-//g.alicdn.com/thx/brix-release/1.0.0-beta.6/require-config-css-debug.js
-//g.alicdn.com/thx/brix-release/1.0.0-beta.6/require-config-css.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.7/require-config-css-debug.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.7/require-config-css.js
 ```
+
+## 2016.02.04, Version 1.0.0-beta.7
+
+### thx/brix-components
+1. [#106 Table：默认高亮首行，鼠标移开仍然高亮](https://github.com/thx/brix-components/issues/106)
 
 
 ## 2016.02.04, Version 1.0.0-beta.6
