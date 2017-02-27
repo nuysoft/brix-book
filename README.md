@@ -8,7 +8,7 @@
 **第一步** 引入 Brix
 
 ```html
-<script src="//g.alicdn.com/thx/brix-release/1.0.0-alpha.6/require-config-css.js"></script>
+<script src="//g.alicdn.com/thx/brix-release/1.0.0-beta.8/require-config-css.js"></script>
 ```
 
 **第二步** 配置 `bx-name`
@@ -38,7 +38,7 @@ require(['brix/loader'], function(Loader){
 
 ## 引入 Brix 说明
 
-`//g.alicdn.com/thx/brix-release/1.0.0-alpha.6/require-config-css.js`
+`//g.alicdn.com/thx/brix-release/1.0.0-beta.7/require-config-css.js`
 
 文件名                                | 说明
 ------------------------------------- |     -------------
@@ -60,8 +60,8 @@ require-config-css-animation-debug.js | RequireJS + Brix 模块化配置 + 自�
 
 **自动加载相关 CSS** 包含了以下 CSS 文件：
 * bootstrap.css
-* 所有组件样式集 components.css
-* 表单验证组件样式 parsley.css
+* 所有组件样式的集合 components.css
+* 表单验证组件的样式 parsley.css
 * MineCraft 规范样式 minecraft.css
 
 ## 手动引入 CSS 说明

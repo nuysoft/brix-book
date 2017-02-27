@@ -9,6 +9,12 @@
 //g.alicdn.com/thx/brix-release/1.0.0-beta.7/require-config-css.js
 ```
 
+## 2016.02.27, Version 1.0.0-beta.8
+
+### thx/brix-components
+1. [#108 DatePickerWrapper：选择不限后，日历面板不可翻动](https://github.com/thx/brix-components/issues/108)
+
+
 ## 2016.02.04, Version 1.0.0-beta.7
 
 ### thx/brix-components
