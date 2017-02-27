@@ -1,12 +1,12 @@
 # CHANGELOG
 
 ```
-//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.7/require-config-css-debug.js
+//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.8/require-config-css-debug.js
 ```
 
 ```
-//g.alicdn.com/thx/brix-release/1.0.0-beta.7/require-config-css-debug.js
-//g.alicdn.com/thx/brix-release/1.0.0-beta.7/require-config-css.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.8/require-config-css-debug.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.8/require-config-css.js
 ```
 
 ## 2016.02.27, Version 1.0.0-beta.8
