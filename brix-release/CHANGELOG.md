@@ -1,13 +1,19 @@
 # CHANGELOG
 
 ```
-//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.8/require-config-css-debug.js
+//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.9/require-config-css-debug.js
 ```
 
 ```
-//g.alicdn.com/thx/brix-release/1.0.0-beta.8/require-config-css-debug.js
-//g.alicdn.com/thx/brix-release/1.0.0-beta.8/require-config-css.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.9/require-config-css-debug.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.9/require-config-css.js
 ```
+
+## 2016.03.01, Version 1.0.0-beta.9
+
+### thx/brix-components
+1. [#110 DatePickerWrapper：初始值为不限时，日历面板显示错误](https://github.com/thx/brix-components/issues/110)
+
 
 ## 2016.02.27, Version 1.0.0-beta.8
 

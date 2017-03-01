@@ -8,7 +8,7 @@
 **第一步** 引入 Brix
 
 ```html
-<script src="//g.alicdn.com/thx/brix-release/1.0.0-beta.8/require-config-css.js"></script>
+<script src="//g.alicdn.com/thx/brix-release/1.0.0-beta.9/require-config-css.js"></script>
 ```
 
 **第二步** 配置 `bx-name`
