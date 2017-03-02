@@ -1,13 +1,20 @@
 # CHANGELOG
 
 ```
-//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.9/require-config-css-debug.js
+//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.10/require-config-css-debug.js
 ```
 
 ```
-//g.alicdn.com/thx/brix-release/1.0.0-beta.9/require-config-css-debug.js
-//g.alicdn.com/thx/brix-release/1.0.0-beta.9/require-config-css.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.10/require-config-css-debug.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.10/require-config-css.js
 ```
+
+## 2016.03.01, Version 1.0.0-beta.10
+
+### thx/brix-components
+1. [#111 Dropdown：非 Select 结构解析 multiple 错误导致无法选中](https://github.com/thx/brix-components/issues/111)
+2. [#26 Dropdown：自定义 HTML 结构测试](https://github.com/thx/brix-components/issues/26)
+
 
 ## 2016.03.01, Version 1.0.0-beta.9
 
