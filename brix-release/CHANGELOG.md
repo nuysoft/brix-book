@@ -1,13 +1,19 @@
 # CHANGELOG
 
 ```
-//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.10/require-config-css-debug.js
+//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.11/require-config-css-debug.js
 ```
 
 ```
-//g.alicdn.com/thx/brix-release/1.0.0-beta.10/require-config-css-debug.js
-//g.alicdn.com/thx/brix-release/1.0.0-beta.10/require-config-css.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.11/require-config-css-debug.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.11/require-config-css.js
 ```
+
+## 2016.03.06, Version 1.0.0-beta.11
+
+### thx/brix-components
+1. [#112 DatePickerWrapper：时间选择浮层的『取消』按钮无效](https://github.com/thx/brix-components/issues/112)
+
 
 ## 2016.03.01, Version 1.0.0-beta.10
 
