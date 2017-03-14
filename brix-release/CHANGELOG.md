@@ -1,13 +1,20 @@
 # CHANGELOG
 
 ```
-//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.11/require-config-css-debug.js
+//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.12/require-config-css-debug.js
 ```
 
 ```
-//g.alicdn.com/thx/brix-release/1.0.0-beta.11/require-config-css-debug.js
-//g.alicdn.com/thx/brix-release/1.0.0-beta.11/require-config-css.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.12/require-config-css-debug.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.12/require-config-css.js
 ```
+
+## 2016.03.14, Version 1.0.0-beta.12
+
+### thx/brix-components
+1. [#113 DatePickerWrapper：自动渲染初始值](https://github.com/thx/brix-components/issues/113)
+2. [#90 Uploader：支持没有 form 的场景](https://github.com/thx/brix-components/issues/90)
+
 
 ## 2016.03.06, Version 1.0.0-beta.11
 
