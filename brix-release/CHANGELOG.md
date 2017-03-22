@@ -1,13 +1,19 @@
 # CHANGELOG
 
 ```
-//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.12/require-config-css-debug.js
+//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.13/require-config-css-debug.js
 ```
 
 ```
-//g.alicdn.com/thx/brix-release/1.0.0-beta.12/require-config-css-debug.js
-//g.alicdn.com/thx/brix-release/1.0.0-beta.12/require-config-css.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.13/require-config-css-debug.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.13/require-config-css.js
 ```
+
+## 2016.03.23, Version 1.0.0-beta.13
+
+### thx/brix-loader
+1. [#27 加载大量组件导致堆栈溢出](https://github.com/thx/brix-loader/issues/27)
+
 
 ## 2016.03.14, Version 1.0.0-beta.12
 
