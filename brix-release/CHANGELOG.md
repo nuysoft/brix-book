@@ -1,13 +1,19 @@
 # CHANGELOG
 
 ```
-//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.13/require-config-css-debug.js
+//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.14/require-config-css-debug.js
 ```
 
 ```
-//g.alicdn.com/thx/brix-release/1.0.0-beta.13/require-config-css-debug.js
-//g.alicdn.com/thx/brix-release/1.0.0-beta.13/require-config-css.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.14/require-config-css-debug.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.14/require-config-css.js
 ```
+
+## 2016.03.31, Version 1.0.0-beta.14
+
+### thx/brix-components
+1. [#116 ColorPicker：问题汇总修复](https://github.com/thx/brix-components/issues/116)
+2. [#117 Errortips：提示浮层没有根据触发节点自动居中](https://github.com/thx/brix-components/issues/117)
 
 ## 2016.03.23, Version 1.0.0-beta.13
 
