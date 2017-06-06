@@ -1,13 +1,18 @@
 # CHANGELOG
 
 ```
-//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.14/require-config-css-debug.js
+//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.15/require-config-css-debug.js
 ```
 
 ```
-//g.alicdn.com/thx/brix-release/1.0.0-beta.14/require-config-css-debug.js
-//g.alicdn.com/thx/brix-release/1.0.0-beta.14/require-config-css.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.15/require-config-css-debug.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.15/require-config-css.js
 ```
+
+## 2016.06.06, Version 1.0.0-beta.15
+
+### thx/brix-components
+1. [#121 Uploader：组件不支持重复上传同一个文件](https://github.com/thx/brix-components/issues/121)
 
 ## 2016.03.31, Version 1.0.0-beta.14
 
