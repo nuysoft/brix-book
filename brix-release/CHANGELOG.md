@@ -1,13 +1,17 @@
 # CHANGELOG
 
 ```
-//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.15/require-config-css-debug.js
+//g-assets.daily.taobao.net/thx/brix-release/1.0.0-beta.16/require-config-css-debug.js
 ```
 
 ```
-//g.alicdn.com/thx/brix-release/1.0.0-beta.15/require-config-css-debug.js
-//g.alicdn.com/thx/brix-release/1.0.0-beta.15/require-config-css.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.16/require-config-css-debug.js
+//g.alicdn.com/thx/brix-release/1.0.0-beta.16/require-config-css.js
 ```
+
+## 2016.06.16, Version 1.0.0-beta.16
+
+1. **修复** [#80 Dropdown：多选状态下，如果没有选中任何选项，则显示标记为 excluded 的选项](https://github.com/thx/brix-components/issues/80)
 
 ## 2016.06.06, Version 1.0.0-beta.15
 
